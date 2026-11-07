@@ -1,0 +1,17 @@
+quantity,value
+mean_log_income,8.08661950593718
+first_stage_coefficient,0.8771016294699611
+q1_beta_price,-30.59850386003107
+q1_beta_price_se,0.9663297997125081
+q1_pi_mushy_income,0.234569323098832
+q3_beta_price,11.306102100887085
+q3_beta_price_se,13.339106637907173
+q3_pi_mushy_income,0.10457538724946823
+q3_pi_price_income,-5.68349410237101
+q3_sigma_price,6.596823480586764
+q5_beta_price,71.22546936951355
+q5_pi_price_income,-12.3159718550245
+q5_sigma_price,1.6434478634701396e-06
+price_cut_own_change_logit,193.9558408430439
+price_cut_own_change_observed,193.7543393598963
+price_cut_own_change_random_coefficients,246.82462005702655
